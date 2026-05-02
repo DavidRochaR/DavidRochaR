@@ -1,6 +1,6 @@
 # David Rocha | Energy × Data × AI
 
-Project Manager and Geological Engineer building data-driven solutions for the energy transition. 13+ years leading geothermal and renewable energy projects — now combining that field experience with Big Data analytics, machine learning, and AI.
+Project Manager and Geological Engineer building data-driven solutions for the energy transition. 13+ years supporting the development of geothermal and renewable energy projects — now combining that field experience with Big Data analytics, machine learning, and AI.
 
 Based in Ontario, Canada.
 
