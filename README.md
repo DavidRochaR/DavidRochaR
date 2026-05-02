@@ -51,7 +51,7 @@ Based in Ontario, Canada.
 ## Career highlights
 
 - Co-founded **GETERMEX and XENERCO** and secured international funding for geothermal development in Baja California Sur
-- Managed exploration permits across **13+ geothermal prospects** for Mexico's Ministry of Energy (SENER) and **4 exploitation concessions for the Federal Electricity Commission (CFE)
+- Managed exploration permits across **13+ geothermal prospects** for Mexico's Ministry of Energy (SENER) and **4 exploitation concessions** for the Federal Electricity Commission (CFE)
 - Built **automated ETL pipelines** (PySpark + SQL) processing geological, geophysical and geochemical datasets (geothermal) end-to-end
 - Developed **SARIMAX forecasting models** and **CNN audio classifiers** during Big Data capstone
 - Active volunteer with **Climate Resilient Communities Toronto** — contributed to the Multilingual Climate Chatbot initiative
@@ -61,7 +61,7 @@ Based in Ontario, Canada.
 ## Currently
 
 - 📋 Pursuing P.Eng. licensure (Professional Engineers Ontario) and Project Management Professional (PMP) certification.
-- 🔭 Building this portfolio to showcase hands-on Energy × Data × AI projects
+- 🔭 Building and increasing the portfolio to showcase hands-on Energy × Data × AI projects
 - 🌱 Deepening skills in cloud architecture (AWS) and MLOps
 - 🤝 Open to collaborations in renewable energy analytics, geoscience data, and sustainability tech
 - 🌎 Fluent in English and Spanish · Learning French
