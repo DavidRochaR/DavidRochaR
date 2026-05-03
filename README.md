@@ -20,7 +20,7 @@ Based in Ontario, Canada.
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [🔥 Geothermal Analytics Toolkit](https://github.com/DavidRochaR/geothermal-analytics-toolkit) | Well-log ETL, thermal anomaly detection, interactive prospect mapping, Monte Carlo resource assessment | Python, GeoPandas, Folium, SciPy |
-| 📈 Energy Demand Forecasting | SARIMAX time-series models for energy price and demand prediction | Python, Statsmodels, Plotly |
+| 📈 [Energy Demand Forecasting] (https://github.com/DavidRochaR/energy-demand-forecasting) | SARIMAX time-series models for energy price and demand prediction | Python, Statsmodels, Plotly |
 | 🤖 Climate RAG Chatbot | Retrieval-Augmented Generation prototype for climate resilience Q&A | LangChain, FAISS, Streamlit |
 | 📊 Project Controls Dashboard | EVM cost and schedule variance tracker with interactive visualizations | Power BI, Python, SQL |
 | 🌍 IoT Energy Optimization | Data-driven analysis for reducing urban IoT energy consumption | Python, Pandas, Matplotlib |
