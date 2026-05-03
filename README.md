@@ -17,13 +17,28 @@ Based in Ontario, Canada.
 
 ## Featured projects
 
+### Energy Analytics
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🔥[Geothermal Analytics Toolkit](https://github.com/DavidRochaR/geothermal-analytics-toolkit) | Well-log ETL, thermal anomaly detection, interactive prospect mapping, Monte Carlo resource assessment | Python, GeoPandas, Folium, SciPy |
-| 📈[Energy Demand Forecasting](https://github.com/DavidRochaR/energy-demand-forecasting) | SARIMAX time-series models for energy price and demand prediction | Python, Statsmodels, Plotly |
+| 📈[Energy Demand Forecasting](https://github.com/DavidRochaR/energy-demand-forecasting) | 5-step RETScreen-style analysis: SARIMAX forecasting, LCOE, GHG reduction, NPV/IRR, Monte Carlo risk | Python, Statsmodels, Plotly |
+
+### Carbon & Climate
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏭[CCUS Analytics](https://github.com/DavidRochaR/ccus-analytics) | CO₂ capture modelling, geological storage assessment, pipeline economics, ML capture optimization | Python, Scikit-learn, SciPy |
+| 🌿 CarbonIQ GHG Platform | GHG inventory automation for Mexico (RENE/SCE compliance), emission tracking, carbon footprint management | Python, Streamlit, Plotly |
+
+### Geoscience & AI
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🪨[Rock Lithology Classifier](https://github.com/DavidRochaR/rock-lithology-classifier) | CNN thin-section image classification using transfer learning (ResNet50, EfficientNet), Grad-CAM interpretability | PyTorch, OpenCV, Streamlit |
 | 🤖 Climate RAG Chatbot | Retrieval-Augmented Generation prototype for climate resilience Q&A | LangChain, FAISS, Streamlit |
+
+### Project Management & Data
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
 | 📊 Project Controls Dashboard | EVM cost and schedule variance tracker with interactive visualizations | Power BI, Python, SQL |
-| 🌍 IoT Energy Optimization | Data-driven analysis for reducing urban IoT energy consumption | Python, Pandas, Matplotlib |
 | 🧠 ML/AI Case Studies | Documented experiments: regression, classification, CNN, NLP, deep learning | Scikit-learn, PyTorch, Jupyter |
 
 ---
@@ -42,7 +57,7 @@ Based in Ontario, Canada.
 ## Credentials
 
 🎓 **Postgraduate Certificate in Big Data Analytics** — Ontario, Canada *(2025 · Dean's Honour List)*
-🎓 **B.Eng. Geological Engineering** — CDMX, Mexico
+🎓 **B.Eng. Geological Engineering**
 📋 Google Project Management Certificate & AI for Managers
 📋 Big Data & AI
 
@@ -50,7 +65,7 @@ Based in Ontario, Canada.
 
 ## Career highlights
 
-- Co-founded **GETERMEX and XENERCO** and secured international funding for geothermal development in Baja California Sur
+- Co-founded **XENERCO and GETERMEX** and secured international funding for geothermal development in Baja California Sur
 - Managed exploration permits across **13+ geothermal prospects** for Mexico's Ministry of Energy (SENER) and **4 exploitation concessions** for the Federal Electricity Commission (CFE)
 - Built **automated ETL pipelines** (PySpark + SQL) processing geological, geophysical and geochemical datasets (geothermal) end-to-end
 - Developed **SARIMAX forecasting models** and **CNN audio classifiers** during Big Data capstone
