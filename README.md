@@ -27,7 +27,7 @@ Based in Ontario, Canada.
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🏭[CCUS Analytics](https://github.com/DavidRochaR/ccus-analytics) | CO₂ capture modelling, geological storage assessment, pipeline economics, ML capture optimization | Python, Scikit-learn, SciPy |
-| 🌿 CarbonIQ GHG Platform | GHG inventory automation for Mexico (RENE/SCE compliance), emission tracking, carbon footprint management | Python, Streamlit, Plotly |
+| 🌿 [CarbonIQ GHG Platform](https://github.com/DavidRochaR/carboniq-ghg-platform) | GHG inventory automation for Mexico (RENE/SCE compliance), emission tracking, carbon footprint management | Python, Streamlit, Plotly |
 
 ### Geoscience & AI
 | Project | Description | Tech Stack |
