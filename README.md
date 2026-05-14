@@ -33,7 +33,7 @@ Based in Ontario, Canada.
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🪨 [Rock Lithology Classifier](https://github.com/DavidRochaR/rock-lithology-classifier) | CNN thin-section image classification using transfer learning (ResNet50, EfficientNet), Grad-CAM interpretability | PyTorch, OpenCV, Streamlit |
-| ⛏️ [Narrow-Vein Mining Analytics](https://github.com/DavidRochaR/narrow-vein-mining-analytics) | Orebody geometry modelling, drill trajectory optimization, recovery vs dilution simulation, mining economics, ESG scorecard | Python, NumPy, SciPy, Plotly |
+| ⛏️ [Mining Analytics](https://github.com/DavidRochaR/mining-analytics) | Orebody geometry modelling, drill trajectory optimization, recovery vs dilution simulation, mining economics, ESG scorecard | Python, NumPy, SciPy, Plotly |
 
 ### Project Management, ML & Data
 | Project | Description | Tech Stack |
