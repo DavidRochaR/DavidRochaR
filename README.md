@@ -39,7 +39,7 @@ Based in Ontario, Canada.
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 📊 Project Controls Dashboard | EVM cost and schedule variance tracker with interactive visualizations | Power BI, Python, SQL |
-| 🧠 ML/AI Case Studies | Documented experiments: regression, classification, CNN, NLP, deep learning | Scikit-learn, PyTorch, Jupyter |
+| 🧠 [ML/AI Case Studies](https://github.com/DavidRochaR/ml-ai-case-studies) | Documented experiments: regression, classification, CNN, NLP, deep learning | Scikit-learn, PyTorch, Jupyter |
 
 ---
 
