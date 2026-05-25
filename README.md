@@ -1,6 +1,6 @@
-# David Rocha | Energy × Data × AI × Mining
+# David Rocha | Energy × Data × AI × Mining × GIS
 
-Project Manager and Geological Engineer building data-driven solutions for the energy transition and the critical minerals supply chain. 13+ years supporting renewable energy and resource development projects — now combining that field experience with Big Data analytics, machine learning, and AI.
+Project Manager and Geological Engineer building data-driven solutions for the energy transition and the critical minerals supply chain. 13+ years supporting renewable energy and resource development projects — now combining that field experience with Big Data analytics, machine learning, AI, and modern Python GIS.
 
 Based in Ontario, Canada.
 
@@ -10,7 +10,8 @@ Based in Ontario, Canada.
 
 - **Renewable energy & resource project management** — geothermal exploration, narrow-vein deposit analysis, permitting, stakeholder engagement, budgets, schedules, and risk management across multi-million-dollar projects
 - **Big Data & AI** — end-to-end analytics pipelines (PySpark, SQL, Python), ML models, NLP, deep learning, and RAG-based applications
-- **Data-driven decision-making** — from raw well-log and drillhole data to interactive KPI dashboards that reduced budget deviation
+- **Geoscience GIS** — vector and raster workflows, terrain analysis, remote sensing, and mineral prospectivity mapping in pure Python
+- **Data-driven decision-making** — from raw well-log, drillhole, and satellite data to interactive KPI dashboards that reduced budget deviation
 - **Cross-functional leadership** — coordinating engineers, regulators, investors, Indigenous communities, and other stakeholders across international teams
 
 ---
@@ -29,9 +30,10 @@ Based in Ontario, Canada.
 | 🏭 [CCUS Analytics](https://github.com/DavidRochaR/ccus-analytics) | CO₂ capture modelling, geological storage assessment, pipeline economics, ML capture optimization | Python, Scikit-learn, SciPy |
 | 🌿 [CarbonIQ GHG Platform](https://github.com/DavidRochaR/carboniq-ghg-platform) | GHG inventory automation for Mexico (RENE/SCE compliance), emission tracking, carbon footprint management | Python, Streamlit, Plotly |
 
-### Geoscience & Mining
+### Geoscience, GIS & Mining
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🗺️ [Geoscience GIS Toolkit](https://github.com/DavidRochaR/geoscience-gis-toolkit) | Vector analysis, raster processing, terrain modelling, geological spectral indices, mineral prospectivity (WofE + fuzzy logic) | GeoPandas, Rasterio, rioxarray, Folium |
 | 🪨 [Rock Lithology Classifier](https://github.com/DavidRochaR/rock-lithology-classifier) | CNN thin-section image classification using transfer learning (ResNet50, EfficientNet), Grad-CAM interpretability | PyTorch, OpenCV, Streamlit |
 | ⛏️ [Mining Analytics](https://github.com/DavidRochaR/mining-analytics) | Orebody geometry modelling, drill trajectory optimization, recovery vs dilution simulation, mining economics, ESG scorecard | Python, NumPy, SciPy, Plotly |
 
@@ -47,9 +49,10 @@ Based in Ontario, Canada.
 ## Tech stack
 
 `Python` `SQL` `R` `PySpark` `Hadoop` `Spark` `Kafka`
-`Pandas` `NumPy` `Scikit-learn` `PyTorch` `TensorFlow` `GeoPandas`
+`Pandas` `NumPy` `Scikit-learn` `PyTorch` `TensorFlow`
+`GeoPandas` `Rasterio` `rioxarray` `Shapely` `Folium`
 `Power BI` `Tableau` `AWS QuickSight`
-`PostgreSQL` `MongoDB` `MySQL`
+`PostgreSQL` `MongoDB` `MySQL` `PostGIS`
 `AWS` `Google Cloud` `Docker` `Git`
 `Jira` `Asana` `Notion` `MS Project`
 
@@ -78,9 +81,9 @@ Based in Ontario, Canada.
 ## Currently
 
 - 📋 Pursuing P.Eng. licensure (Professional Engineers Ontario) and Project Management Professional (PMP) certification
-- 🔭 Building and increasing the portfolio to showcase hands-on Energy × Data × AI × Mining projects
-- 🌱 Deepening skills in cloud architecture (AWS) and MLOps
-- 🤝 Open to collaborations in renewable energy analytics, geoscience data, mining technology, and sustainability tech
+- 🔭 Building and increasing the portfolio to showcase hands-on Energy × Data × AI × Mining × GIS projects
+- 🌱 Deepening skills in cloud architecture (AWS), MLOps, and geospatial big data (Apache Sedona, Google Earth Engine)
+- 🤝 Open to collaborations in renewable energy analytics, geoscience data, mining technology, GIS, and sustainability tech
 - 🌎 Fluent in English and Spanish · Learning French
 
 ---
