@@ -1,6 +1,6 @@
 # David Rocha | Energy × Data × AI × Mining × GIS
 
-Project Manager and Geological Engineer building data-driven solutions for the energy transition and the critical minerals supply chain. 13+ years supporting renewable energy and resource development projects — now combining that field experience with Big Data analytics, machine learning, AI, and modern Python GIS.
+Project Manager, PMP® and Geological Engineer building data-driven solutions for the energy transition and the critical minerals supply chain. 13+ years supporting renewable energy and resource development projects — now combining that field experience with Big Data analytics, machine learning, AI, and modern Python GIS.
 
 Based in Ontario, Canada.
 
@@ -22,6 +22,7 @@ Based in Ontario, Canada.
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🔥 [Geothermal Analytics Toolkit](https://github.com/DavidRochaR/geothermal-analytics-toolkit) | Well-log ETL, thermal anomaly detection, interactive prospect mapping, Monte Carlo resource assessment | Python, GeoPandas, Folium, SciPy |
+| ❄️ [Geothermal GSHP Sizing Calculator](https://github.com/DavidRochaR/geothermal-gshp-sizing-calculator) | Ground-source heat pump sizing: vertical loop length, borehole field layout, pipe diameter, soil-type comparison — validated against the Fort Polk retrofit case | Python, NumPy, Matplotlib, pytest |
 | 📈 [Energy Demand Forecasting](https://github.com/DavidRochaR/energy-demand-forecasting) | 5-step RETScreen-style analysis: SARIMAX forecasting, LCOE, GHG reduction, NPV/IRR, Monte Carlo risk | Python, Statsmodels, Plotly |
 
 ### Carbon & Climate
@@ -74,6 +75,7 @@ Based in Ontario, Canada.
 - Managed exploration permits across **13+ geothermal prospects** for Mexico's Ministry of Energy (SENER) and **4 exploitation concessions** for the Federal Electricity Commission (CFE)
 - Built **automated ETL pipelines** (PySpark + SQL) processing geological, geophysical and geochemical datasets end-to-end
 - Developed **SARIMAX forecasting models** and **CNN audio classifiers** during Big Data capstone
+- **Invited lecturer, UNAM Institute of Engineering** — delivered a 3-hour session on AI & Big Data in Geothermal Energy for the GEOTERMIA EN ACCIÓN diploma program (2026) [UsoAI_BigData_Geotermia.html](https://drive.google.com/drive/folders/1hcbUVLRqgcGLNho6qEt2rKvTbBpCuW4a?usp=drive_link), including hands-on Python/Colab workshops
 - Active volunteer with **Climate Resilient Communities Toronto** — contributed to the Multilingual Climate Chatbot initiative
 
 ---
