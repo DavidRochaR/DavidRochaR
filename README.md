@@ -82,7 +82,7 @@ Based in Ontario, Canada.
 
 ## Currently
 
-- 📋 Pursuing P.Eng. licensure (Professional Engineers Ontario) and Project Management Professional (PMP) certification
+- 📋 [Project Management Professional (PMP)®](https://www.credly.com/badges/cea89a66-bfbc-4dfd-97ce-d073aecba92b/public_url) and Pursuing P.Eng. licensure (Professional Engineers Ontario, Application #100671395)
 - 🔭 Building and increasing the portfolio to showcase hands-on Energy × Data × AI × Mining × GIS projects
 - 🌱 Deepening skills in cloud architecture (AWS), MLOps, and geospatial big data (Apache Sedona, Google Earth Engine)
 - 🤝 Open to collaborations in renewable energy analytics, geoscience data, mining technology, GIS, and sustainability tech
